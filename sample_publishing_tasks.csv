@@ -1,0 +1,7 @@
+book_title,task,deadline,status,priority,assigned_to,stage,dependency,notes
+The Hidden Garden,Copy editing,2026-10-18,In Progress,High,Editor,Editing,,First editorial pass
+The Hidden Garden,Proofreading,2026-10-15,Not Started,Critical,Proofreader,Proofreading,Copy editing,Wait for edited manuscript
+The Hidden Garden,Author corrections,2026-10-17,Pending,High,Author,Editorial review,Proofreading,Awaiting author response
+The Moon Atlas,Cover design,2026-10-16,Pending,Medium,Designer,Design,,Cover concept approval needed
+The Moon Atlas,Typesetting,2026-10-20,In Progress,Medium,Typesetter,Typesetting,Final manuscript,Interior layout
+The Moon Atlas,Typesetting,2026-10-20,In Progress,Medium,Typesetter,Typesetting,Final manuscript,Duplicate row intentionally retained for testing
